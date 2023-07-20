@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Fresh Theme</title>
+    <link>http://something-fresh.org/</link>
+    <description>Recent content on Hugo Fresh Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://something-fresh.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Core Java</title>
+      <link>http://something-fresh.org/core-java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/core-java/</guid>
+      <description>Ниво Потребно време Сертификат за завршен курс Предуслов Почетник 8 часа по 1,5сати и домашна работа Дигитален сертификат за завршен курс Нема Зошто Јава ? Јава е лесно да се научи.
+Јава e дизајнирана да биде лесна за употреба и затоа е лесна за пишување, компајлирање, дебагирање и учење отколку другите програмски јазици. Јава е објектно-ориентирана. Ова ви овозможува да креирате модуларни програми и код за повеќекратна употреба Јава е независна од платформата.</description>
+    </item>
+    
+    <item>
+      <title>Dev Ops</title>
+      <link>http://something-fresh.org/devops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/devops/</guid>
+      <description>Курсот е во изработка </description>
+    </item>
+    
+    <item>
+      <title>Microservices</title>
+      <link>http://something-fresh.org/microservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/microservices/</guid>
+      <description>Ниво Потребно време Сертификат за завршен курс Предуслов средно 10 часа по 1,5сати и домашна работа Дигитален сертификат за завршен курс Завршен курс Core Java Mикросервиси Микросервисните архитектури се „новата нормала“. Создавањето мали, самостојни, подготвени за извршување апликации може да донесе голема флексибилност и дополнителна еластичност на вашиот код. Многуте наменски изградени карактеристики на Spring Boot го олеснуваат создавањето и водење на вашите микроуслуги во производство во обем. И не заборавајте, ниту една микросервисна архитектура не е комплетна без начин да се олесни администрацијата и зголемување на вашата толеранција на грешки.</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>http://something-fresh.org/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/test/</guid>
+      <description>Начин на слушање Ниво Потребно време Сертификат за завршен курс Предуслов Почетник Javascript 1 2 </description>
+    </item>
+    
+    <item>
+      <title>За Курсевите</title>
+      <link>http://something-fresh.org/za-kursevite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://something-fresh.org/za-kursevite/</guid>
+      <description>Начин на слушање Откако ќе се направи уплата за посакуваниот курс , ќе добиете email со детални информации и распоред на часови за истиот. Часовите ќе се одржуваат online на конференциски повик со инструкторот. Часовите намерно се направени да бидат во мали групи за инструкторот да посвети внимание на секој студент поединечно. Исто така ќе добиете и Покана link до нашиот Discord сервер на кој секојдневно ќе може да поставувате прашања и да имате комуникација со вашиот инструктор Потребна опрема Било каков компјутер кој е произведен во последните 10 години :) и стабилна интернет конекција.</description>
+    </item>
+    
+  </channel>
+</rss>
