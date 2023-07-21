@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://something-fresh.org/core-java/</loc>
+    <loc>https://codebase.mk/</loc>
   </url><url>
-    <loc>http://something-fresh.org/devops/</loc>
+    <loc>https://codebase.mk/core-java/</loc>
   </url><url>
-    <loc>http://something-fresh.org/</loc>
+    <loc>https://codebase.mk/devops/</loc>
   </url><url>
-    <loc>http://something-fresh.org/microservices/</loc>
+    <loc>https://codebase.mk/microservices/</loc>
   </url><url>
-    <loc>http://something-fresh.org/test/</loc>
+    <loc>https://codebase.mk/test/</loc>
   </url><url>
-    <loc>http://something-fresh.org/za-kursevite/</loc>
+    <loc>https://codebase.mk/za-kursevite/</loc>
   </url>
 </urlset>
