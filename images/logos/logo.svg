@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 2253 2250" width="2253" height="2250" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" xmlns="http://www.w3.org/2000/svg">
+  <rect id="treemap_chart_colored" x="1.997" y="0" width="2250" height="2250" style="fill:none;" transform="matrix(1, 0, 0, 1, 2.842170943040401e-14, 1.4210854715202004e-14)"/>
+  <rect x="135.331" y="1125" width="495.833" height="991.667" style="stroke: rgb(32, 32, 32); stroke-width: 66.67px; fill: rgb(244, 150, 25);" transform="matrix(1, 0, 0, 1, 2.842170943040401e-14, 1.4210854715202004e-14)"/>
+  <rect x="1127" y="133.333" width="991.667" height="1487.5" style="stroke: rgb(32, 32, 32); stroke-width: 66.67px; fill: rgb(252, 192, 16);" transform="matrix(1, 0, 0, 1, 2.842170943040401e-14, 1.4210854715202004e-14)"/>
+  <rect x="135.331" y="133.333" width="991.667" height="991.667" style="stroke: rgb(32, 32, 32); stroke-width: 66.67px; fill: rgb(52, 67, 88);" transform="matrix(1, 0, 0, 1, 2.842170943040401e-14, 1.4210854715202004e-14)"/>
+  <rect x="631.164" y="1125" width="495.833" height="991.667" style="stroke: rgb(32, 32, 32); stroke-width: 66.67px; fill: rgb(255, 255, 255);" transform="matrix(1, 0, 0, 1, 2.842170943040401e-14, 1.4210854715202004e-14)"/>
+  <rect x="1127" y="1620.83" width="991.667" height="495.833" style="stroke: rgb(32, 32, 32); stroke-width: 66.67px; fill: rgb(236, 99, 14);" transform="matrix(1, 0, 0, 1, 2.842170943040401e-14, 1.4210854715202004e-14)"/>
+</svg>
